@@ -33,7 +33,7 @@ const result = await resetPassword(password)
 }
 
   return (
-   <div className='grid gap-y-10'>
+   <div className='flex-col justify-center items-center h-screen'>
 
 <form onSubmit={handleSubmit} className='grid gap-y-4'>
         <h1 className='text-xl font-bold mt-4'>Profili Güncelle</h1>

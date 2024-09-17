@@ -1,8 +1,17 @@
-# React + Vite
+# Firebase Authentication Projesi
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Bu proje, Firebase kullanarak kullanıcıların e-posta ve şifre ile giriş yapabilmesini ve çıkış yapabilmesini sağlayan basit bir uygulamadır. React.js ve Firebase Authentication kullanarak oluşturulmuştur.
 
-Currently, two official plugins are available:
+## Özellikler
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- E-posta ve şifre ile kullanıcı kayıt ve giriş
+- Kullanıcı çıkışı yapabilme
+- Basit ve kullanıcı dostu arayüz
+
+# Ekran Görüntüsü
+
+![](./public/Vite%20React%202024-09-17%20at%209.06.27%20PM.jpg)
+
+![](./public/Vite%20React%202024-09-17%20at%209.08.49%20PM.jpg)
+
+

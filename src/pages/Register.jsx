@@ -17,7 +17,7 @@ export default function Register(){
 
   return (
     <>
-  <form className='max-w-xl mx-auto grid gap-y-4 py-4 ' onSubmit={handleSubmit}>
+  <form className='justify-center max-w-xl mx-auto grid gap-y-4 py-4 ' onSubmit={handleSubmit}>
 <div>
 
 <label className='block text-sm font-medium text-gray-700'>E-posta
